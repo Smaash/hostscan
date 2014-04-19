@@ -2,7 +2,7 @@ hostscan 0.1
 ============
 
 Hostscan is a php tool which allows you to scan specific range of hosts, mostly for information gathering
-and testing for weak passwords. I guess it's a pentest tool, i created it to automate some tests that i
+and testing for weak passwords. I guess it's a pentest tool, i'd created it to automate some tests that i
 often do. Since it's PHP, it works quite slowly compared to client-side soft.
 
 How it works?
@@ -31,11 +31,11 @@ How it works?
  - Output?
  
 Requirements (php5):
-php5-mysql - for mysql connections
-php5-pgsql - for postgresql connections
-libssh2-php - for ssh connections
-php5-sybase - for mssql connections
-php5-imap - for imap connections
+- php5-mysql - for mysql connections
+- php5-pgsql - for postgresql connections
+- libssh2-php - for ssh connections
+- php5-sybase - for mssql connections
+- php5-imap - for imap connections
 
 
 Any ideas? Feel free to contact me. 
