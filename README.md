@@ -24,18 +24,24 @@ How it works?
  
  Crawler accepts as a parameter array of files and folders that you can manually edit, just like others options.
  
- TODO:
+Some screens:
+ - http://i.imgur.com/uw3qhaZ.png
+ - http://i.imgur.com/JKgzJ0T.png
+ - http://i.imgur.com/Upn25IP.png
+ - http://i.imgur.com/nhtSW7L.png
+
+TODO:
  - Friendly response about service you'd bruteforced, just like MySQL.
  - Optimization, mostly. Code is still a bit shitty, i did not try to secure it (for now).
  - Website vulnerability scanning? (OWASP top ten)
  - Output?
  
 Requirements (php5):
-- php5-mysql - for mysql connections
-- php5-pgsql - for postgresql connections
-- libssh2-php - for ssh connections
-- php5-sybase - for mssql connections
-- php5-imap - for imap connections
+ - php5-mysql - for mysql connections
+ - php5-pgsql - for postgresql connections
+ - libssh2-php - for ssh connections
+ - php5-sybase - for mssql connections
+ - php5-imap - for imap connections
 
 
 Any ideas? Feel free to contact me. 
