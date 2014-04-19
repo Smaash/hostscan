@@ -1,6 +1,9 @@
 <?php
 
 /*
+
+hostscan o.1
+
 Requirements (php5):
 php5-mysql - for mysql connections
 php5-pgsql - for postgresql connections
