@@ -35,7 +35,7 @@ TODO:
  - Output?
  - Dunno yet.
 
- Changelog 0.2:
+Changelog 0.2:
  - Improved code.
  
 Requirements (php5):
