@@ -17,7 +17,6 @@ Contact: smash[at]devilteam.pl
 Happy hacking!
 */
 
-
 ini_set('memory_limit','1000M');
 set_time_limit(0);
 error_reporting(0);
@@ -30,11 +29,11 @@ error_reporting(0);
  $ports = array(21, 22, 23, 25, 53, 80, 110, 143, 443, 465, 3690, 1433, 3306, 5432, 8080);
  $imap_users = array('postmaster', 'hostmaster', 'master', 'admin', 'administrator', 'test', 'root', 'demo');
 
-
 if(isset($_GET['url'])) {
     echo gethostbyname($_GET['url']);
     break;
 }
+
 ?>
 <!DOCTYPE HTML>
 <html>
