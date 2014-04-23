@@ -18,7 +18,8 @@ How it works?
  - If 'Deep Scan' is set, program will perform all aforementioned operations. Further, it will use nmap  with specific 
  parameters you're able to edit, also, the traceroute scan will be performed and displayed - just like nmap. Deep Scan
  also gather some useful informations about a website (if it's running), such as interesting files/folders and www title.
- 
+ - ?url=website.com for quick IP address of specific website.
+
  ...so - what it does? Nmap, traceroute, port scan, ftp anonymous login, ftp/ssh/imap/mysql/pgsql/mssql bruteforce, http
  (website) info gathering, 
  
