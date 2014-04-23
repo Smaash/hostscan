@@ -1,4 +1,4 @@
-hostscan 0.1
+hostscan 0.2
 ============
 
 Hostscan is a php tool which allows you to scan specific range of hosts, mostly for information gathering
@@ -31,10 +31,12 @@ Some screens:
  - http://i.imgur.com/nhtSW7L.png
 
 TODO:
- - Friendly response about service you'd bruteforced, just like MySQL.
- - Optimization, mostly. Code is still a bit shitty, i did not try to secure it (for now).
  - Website vulnerability scanning? (OWASP top ten)
  - Output?
+ - Dunno yet.
+
+ Changelog 0.2:
+ - Improved code.
  
 Requirements (php5):
  - php5-mysql - for mysql connections
