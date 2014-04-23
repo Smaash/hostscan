@@ -20,8 +20,7 @@ How it works?
  also gather some useful informations about a website (if it's running), such as interesting files/folders and www title.
  - ?url=website.com for quick IP address of specific website.
 
- ...so - what it does? Nmap, traceroute, port scan, ftp anonymous login, ftp/ssh/imap/mysql/pgsql/mssql bruteforce, http
- (website) info gathering, 
+ ...so - what it does it do? Nmap, traceroute, port scan, ftp anonymous login, ftp/ssh/imap/mysql/pgsql/mssql bruteforce, http (website) info gathering, 
  
  Crawler accepts as a parameter array of files and folders that you can manually edit, just like others options.
  
