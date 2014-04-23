@@ -38,7 +38,7 @@ if(isset($_GET['url'])) {
 ?>
 <!DOCTYPE HTML>
 <html>
-
+<body onload="new Accordian('basic-hostscan',5,'header_highlight');">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>hostscan</title>
@@ -178,7 +178,6 @@ color: #404040;}
 </style>
 </head>
 
-<body onload="new Accordian('basic-hostscan',5,'header_highlight');">
 <div id="logo"><h1>hostscan</h1></div>
 <div id="basic-hostscan" >
 <div id="test-header" class="hostscan_headings header_highlight">Home</div>
