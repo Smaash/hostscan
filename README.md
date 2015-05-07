@@ -29,14 +29,6 @@ Some screens:
  - http://i.imgur.com/JKgzJ0T.png
  - http://i.imgur.com/Upn25IP.png
  - http://i.imgur.com/nhtSW7L.png
-
-TODO:
- - Website vulnerability scanning? (OWASP top ten)
- - Output?
- - Dunno yet.
-
-Changelog 0.2:
- - Improved code.
  
 Requirements (php5):
  - php5-mysql - for mysql connections
@@ -45,5 +37,3 @@ Requirements (php5):
  - php5-sybase - for mssql connections
  - php5-imap - for imap connections
 
-
-Any ideas? Feel free to contact me. 
